@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzaraheem06
 - 🌱 I’m currently learning Data Science
-- 💼 I work with C++, JavaScript and Python.
+- 💼 I work with C++, Java, JavaScript and Python.
 - 💞️ I’m looking to collaborate on Frontend Project 
 - 📫 How to reach me hamzaraheem06@gmail.com
 - 😄 Pronouns: he/him
