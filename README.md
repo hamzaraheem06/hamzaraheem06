@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamzaraheem06
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Machine Learning. 
 - 💼 I work with C++, Java, JavaScript and Python.
-- 💞️ I’m looking to collaborate on Frontend Project 
+- 💞️ I’m looking to collaborate on Machine Learning.  
 - 📫 How to reach me hamzaraheem06@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Teen Titans Addict 
